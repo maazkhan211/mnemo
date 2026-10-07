@@ -1,0 +1,7 @@
+sentence-transformers>=3.0
+chromadb>=1.0
+streamlit>=1.40
+networkx>=3.0
+pyvis>=0.3.2
+requests>=2.31
+# sqlite3 ships with Python, so there's nothing to install for it.
